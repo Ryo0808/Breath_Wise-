@@ -1,4 +1,4 @@
-# full_concentration_breathing
+total concentration breathing 
 サービス概要
 この世に生を受けてから誰もが意思と関係なく身につけている能力。呼吸
 あなたは呼吸について考えたことがありますか？？　私はヨガをして瞑想をして呼吸について考えるまで正直考えたことはありませんでした。
