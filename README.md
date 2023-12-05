@@ -135,8 +135,12 @@ Twitterシェア機能
 カスタム呼吸の作成: ユーザーが自分の呼吸法を作成し、エピソードを付けて共有できる機能    
 Twitter通知機能  
 
- ## <ER図>  
+## <ER図>  
 https://www.figma.com/file/bcyZxIB3hxTB72j0TlwvvX/ER%E5%9B%B3-breath_wise?type=design&node-id=1%3A12&mode=design&t=2VD93CZSvnMFt8fw-1  
+
+
+## <画面遷移図>  
+https://www.figma.com/file/fMnRaqNz9qgemldDNZotJI/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3%E3%80%80breath_wise?type=design&node-id=0%3A1&mode=design&t=iVgMp89gM187gp3R-1
 
 
 ## ■使用予定技術  
