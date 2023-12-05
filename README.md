@@ -151,3 +151,5 @@ https://www.figma.com/file/bcyZxIB3hxTB72j0TlwvvX/ER%E5%9B%B3-breath_wise?type=d
  *インフラ*  
 •PostgreSQL  
 •Heroku  
+•LINE Messaging API  
+•LINE Messaging API SDK for Ruby  
