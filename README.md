@@ -133,7 +133,7 @@ https://www.figma.com/file/fMnRaqNz9qgemldDNZotJI/%E7%94%BB%E9%9D%A2%E9%81%B7%E7
 
 
  ## <ER図>  
-https://www.figma.com/file/JfvrvwhGTT8WdrxdqMIrIt/breath_wise-ER%E5%9B%B3?type=design&node-id=1%3A3&mode=design&t=Y4uZgzItwhOwEHFF-1  
+https://lucid.app/lucidchart/12539250-f15b-46e5-974e-aeb8f7b83e95/edit?viewport_loc=-1571%2C-243%2C2859%2C2638%2C0_0&invitationId=inv_b8d19269-4618-45c1-8035-142ab0ce4252  
 
 
 ## ■使用予定技術  
